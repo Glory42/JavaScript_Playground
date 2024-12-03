@@ -2,7 +2,7 @@ I've completed the basics and am now focusing on **intermediate concepts**, divi
 
 ---
 
-## Current Focus 🌟  
+## 🌟Current Focus   
 I'm currently learning:  
 - **Classes**: Object-oriented programming concepts for better structure and reusability.  
 - **Modules**: Organizing code into reusable pieces.  
