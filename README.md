@@ -48,7 +48,7 @@ Whether you’re a beginner like me or just here for inspiration, there’s some
 ## Current Focus 🌟  
 Now that I’ve mastered the intermediate concepts, I’m focusing on:  
 - **Advanced JavaScript**: Exploring concepts like closures, prototypes, and design patterns.  
-- **Frameworks & Libraries**: Learning **React.js** and **Node.js** to build full-stack applications.  
+- **Frameworks & Libraries**: Learning **Express.js** and **Node.js** to build full-stack applications.  
 - **Real-World Projects**: Applying my skills to build practical, scalable applications.  
 
 ---
